@@ -1,0 +1,204 @@
+{
+    "config": {
+        "port": 3000,
+        "address": "http://localhost",
+        "editor": {
+            "mode": "standalone",
+            "version": "1.0.61"
+        },
+        "dirPath": "./.learn",
+        "configPath": "bc.json",
+        "outputPath": ".learn/dist",
+        "publicPath": "/preview",
+        "grading": "isolated",
+        "exercisesPath": "./",
+        "disableGrading": false,
+        "actions": [
+            "build",
+            "test",
+            "reset"
+        ],
+        "entries": {
+            "html": "index.html",
+            "vanillajs": "index.js",
+            "react": "app.jsx",
+            "node": "app.js",
+            "python3": "app.py",
+            "java": "app.java"
+        },
+        "translations": []
+    },
+    "title": "Simple Instagram Photo Feed with HTML/CSS",
+    "slug": "instagram-feed",
+    "status": "published",
+    "translations": [
+        "es",
+        "en"
+    ],
+    "difficulty": "beginner",
+    "solution": "https://bitbucket.org/codingacademy/instagram-without-bootstrap",
+    "duration": 6,
+    "description": "Very simple instagram simulation to understand the basics of CSS and HTML5 and how to use them together to create a website.",
+    "preview": "https://github.com/breatheco-de/exercise-instagram-feed/blob/master/preview.gif?raw=true",
+    "technologies": [
+        "html",
+        "css",
+        "flex-box",
+        "layouts",
+        "css grid",
+        "html/css"
+    ],
+    "talents": [
+        {
+            "badge": "identator",
+            "points": 10
+        },
+        {
+            "badge": "tag-master",
+            "points": 10
+        },
+        {
+            "badge": "path-master",
+            "points": 10
+        },
+        {
+            "badge": "select-everything",
+            "points": 10
+        },
+        {
+            "badge": "be-dry",
+            "points": 10
+        },
+        {
+            "badge": "abc",
+            "points": 10
+        }
+    ],
+    "video-id": "0UrDxsUjF4U",
+    "timeline": [
+        {
+            "seconds": "1",
+            "description": "Introduction"
+        },
+        {
+            "seconds": "77",
+            "description": "Configuring the project"
+        },
+        {
+            "seconds": "115",
+            "description": "Creating the index.html structure"
+        },
+        {
+            "seconds": "230",
+            "description": "Connecting the styles.css"
+        },
+        {
+            "seconds": "292",
+            "description": "The post header, image and description"
+        },
+        {
+            "seconds": "572",
+            "description": "Removing the header top margin"
+        },
+        {
+            "seconds": "640",
+            "description": "Centering the website"
+        },
+        {
+            "seconds": "811",
+            "description": "Padding for text separation"
+        },
+        {
+            "seconds": "896",
+            "description": "Using display inline-block"
+        },
+        {
+            "seconds": "1336",
+            "description": "Last little details"
+        }
+    ],
+    "session": 5806546552168550000,
+    "exercises": [
+        {
+            "position": 0,
+            "path": "./",
+            "slug": "default-index",
+            "translations": {
+                "es": "README.es.md",
+                "us": "README.md"
+            },
+            "language": "html",
+            "entry": ".//index.html",
+            "title": "default-index",
+            "graded": false,
+            "files": [
+                {
+                    "path": ".//.git",
+                    "name": ".git",
+                    "hidden": true
+                },
+                {
+                    "path": ".//.learn",
+                    "name": ".learn",
+                    "hidden": true
+                },
+                {
+                    "path": ".//bc.json",
+                    "name": "bc.json",
+                    "hidden": true
+                },
+                {
+                    "path": ".//index.html",
+                    "name": "index.html",
+                    "hidden": false
+                },
+                {
+                    "path": ".//inst-3.png",
+                    "name": "inst-3.png",
+                    "hidden": true
+                },
+                {
+                    "path": ".//inst-5.png",
+                    "name": "inst-5.png",
+                    "hidden": true
+                },
+                {
+                    "path": ".//inst-6.png",
+                    "name": "inst-6.png",
+                    "hidden": true
+                },
+                {
+                    "path": ".//preview.gif",
+                    "name": "preview.gif",
+                    "hidden": true
+                },
+                {
+                    "path": ".//README.es.md",
+                    "name": "README.es.md",
+                    "hidden": true
+                },
+                {
+                    "path": ".//README.md",
+                    "name": "README.md",
+                    "hidden": true
+                },
+                {
+                    "path": ".//strategy.png",
+                    "name": "strategy.png",
+                    "hidden": true
+                },
+                {
+                    "path": ".//styles.css",
+                    "name": "styles.css",
+                    "hidden": false
+                },
+                {
+                    "path": ".//thumb.png",
+                    "name": "thumb.png",
+                    "hidden": true
+                }
+            ],
+            "done": false
+        }
+    ]
+}
